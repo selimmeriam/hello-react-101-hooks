@@ -1,0 +1,17 @@
+h1, p {
+  font-family: Lato;
+  color:blue;
+}
+p.ready{
+  color:red;
+  font-size:1.2em;
+  font-family: Helvetica;
+}
+h1.small{
+  font-size:1em;
+  color:green;
+}
+.now{
+  font-size:0.7em;
+  color:pink;
+}
